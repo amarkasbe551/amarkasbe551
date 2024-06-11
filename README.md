@@ -1,5 +1,5 @@
 # Amar Shivaji Kasbe
-![Amar_profilepic](https://github.com/amarkasbe551/amarkasbe551/assets/105847912/810bea34-f0dc-4f5e-8e98-4acb5493a220)
+
 ## About Me
 
 I am a passionate data enthusiast with a strong interest in data engineering. As a recent graduate and Data Engineer Intern, I am eager to apply my skills and learnings to real-world projects. I am committed to continuously expanding my knowledge and contributing to innovative solutions in the field of data engineering.
