@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate data enthusiast with a strong interest in data engineering. As a recent graduate and Data Engineer Intern, I am eager to apply my skills and learnings to real-world projects. I am committed to continuously expanding my knowledge and contributing to innovative solutions in the field of data engineering.
+I am a passionate data enthusiast with a strong interest in data engineering, data analyst, data science. As a recent graduate and Data Engineer Intern, I am eager to apply my skills and learnings to real-world projects. I am committed to continuously expanding my knowledge and contributing to innovative solutions in the field of data engineering.
 
 ## Skills
 
