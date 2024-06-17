@@ -6,11 +6,11 @@ I am a passionate data enthusiast with a strong interest in data engineering, da
 
 ## Skills
 
-- **Programming Languages**: List of programming languages you're proficient in (e.g., Python, SQL, R, Java, etc.).
-- **Data Analysis/Manipulation**: Describe your skills in data analysis and manipulation (e.g., pandas, SQL, data wrangling, etc.).
+- **Programming Languages**: List of programming languages you're proficient in (e.g., Python, SQL, etc.).
+- **Data Analysis/Manipulation**: Describe your skills in data analysis and manipulation (e.g., pandas, SQL, data wrangling, Power Bi, etc.).
 - **Machine Learning/Statistics**: Mention your expertise in machine learning algorithms, statistical analysis, and modeling techniques.
 - **Data Visualization**: Highlight your experience with data visualization libraries/tools (e.g., Matplotlib, Seaborn, Tableau, etc.).
-- **Database Systems**: Mention databases you're proficient in (e.g., MySQL, PostgreSQL, MongoDB, etc.).
+- **Database Systems**: Mention databases you're proficient in (e.g., MySQL, PostgreSQL, etc.).
 
 ## Contact Me
 
