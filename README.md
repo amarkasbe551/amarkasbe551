@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a passionate data enthusiast with a strong interest in data engineering, data analyst, data science. As a recent graduate and Data Engineer Intern, I am eager to apply my skills and learnings to real-world projects. I am committed to continuously expanding my knowledge and contributing to innovative solutions in the field of data engineering.
+I am currently developing proficiency in GenAI, Shell scripting, Python programming, SQL, and Data Warehousing, as well as Google Cloud Platform (GCP) services within my current role. Additionally, I have experience in machine learning, Power BI, and Excel for data analysis and visualization. I am passionate about leveraging technology to solve problems and achieve goals
 
 ## Skills
 
