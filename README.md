@@ -5,8 +5,15 @@
 ![image](https://github.com/amarkasbe551/Atgier_assign/assets/105847912/0c15b869-b249-4438-89ad-e3cd61570d14)
 
 ## About Me
+I’m a Data Engineer with a strong focus on building data pipelines, integrating data, and leveraging cloud technology, etc. After completing my internship, I have advanced to the role of Associate Data Engineer.
 
-I am currently developing proficiency in GenAI, Shell scripting, Python programming, SQL, and Data Warehousing, as well as Google Cloud Platform (GCP) services within my current role. Additionally, I have experience in machine learning, Power BI, and Excel for data analysis and visualization. I am passionate about leveraging technology to solve problems and achieve goals
+During my internship, I gained practical experience in:
+Automation: Using Shell scripting and Python to improve efficiency and automate tasks.
+Data Management: Developing and optimizing SQL queries and managing data warehouses.
+Cloud Services: Applying Google Cloud Platform for effective data processing and management.
+Generative AI: Implementing AI models to tackle real-world challenges.
+
+Beyond these areas, I also have experience in machine learning, Power BI, and Excel for in-depth data analysis and visualization. I am passionate about using technology to solve complex problems and achieve meaningful results, and I look forward to growing and making a positive impact through my work.
 
 ## Skills
 
