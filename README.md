@@ -22,6 +22,7 @@ Beyond these areas, I also have experience in machine learning, Power BI, and Ex
 - **Machine Learning/Statistics**: Expertise in machine learning algorithms, statistical analysis, and modeling techniques.
 - **Data Visualization**: Matplotlib, Seaborn, Tableau, Power Bi, Excel, etc.
 - **Database Systems**: MySQL, PostgreSQL, etc.
+- **Cloud Platforms**: Google Cloud Platform (GCP), Microsoft Azure
 
 ## Contact Me
 
