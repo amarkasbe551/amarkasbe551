@@ -9,13 +9,14 @@ Experienced technical professional with hands-on expertise in building Generativ
 
 ## Skills
 
-**Programming**: Python, PowerShell Scripting.
-**Cloud & Data**: Google Cloud Platform (GCP), BigQuery, Google Cloud Storage, Cloud Functions, Cloud Run, IAM, Cloud VPN, Vertex AI, AI Platform, Secret Manager, Docker, Kubernetes, BigQuery.
-**Azure**: Azure Cognitive Search, GPT models (Conceptual).
-**Data Engineering**: ETL / ELT Pipelines, Data Ingestion, Data Transformation, Batch Processing, Data Validation, Data **Pipeline Monitoring AI / GenAI**: Gemini, Prompt Engineering, Embedding Models, Vector Search, Multimodal RAG.
-**Databases & Environments**: PostgreSQL, MySQL, Jupyter Notebook, Visual Studio.
-**Analytics & Dashboarding**: Microsoft Power BI, Advanced Microsoft Excel.
-**Tools**: Visual Cron Job, Git.
+**Programming**: Python, PowerShell Scripting.<br>
+**Cloud & Data**: Google Cloud Platform (GCP), BigQuery, Google Cloud Storage, Cloud Functions, Cloud Run, IAM, Cloud VPN, Vertex AI, AI Platform, Secret Manager, Docker, Kubernetes, BigQuery.<br>
+**Azure**: Azure Cognitive Search, GPT models (Conceptual).<br>
+**Data Engineering**: ETL / ELT Pipelines, Data Ingestion, Data Transformation, Batch Processing, Data Validation, Data Pipeline Monitoring.<br>
+**AI / GenAI**: Gemini, Prompt Engineering, Embedding Models, Vector Search, Multimodal RAG.<br>
+**Databases & Environments**: PostgreSQL, MySQL, Jupyter Notebook, Visual Studio.<br>
+**Analytics & Dashboarding**: Microsoft Power BI, Advanced Microsoft Excel.<br>
+**Tools**: Visual Cron Job, Git.<br>
 
 ## Contact Me
 
